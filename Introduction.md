@@ -1,1 +1,5 @@
-
+- [x] Introduction to Programming Fundamentals(PF)
+- [x] Learn about IPO Charts
+- [x] Drawing flowcharts with conditions
+- [x] Writing algorithms & pseudocodes
+- [ ] Write your own first C code 
